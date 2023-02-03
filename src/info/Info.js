@@ -4,7 +4,7 @@ import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
-
+import tinder_clone from "../img/tinder_clone.png"
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
 
@@ -25,7 +25,7 @@ of what each of the values mean.
 export const info = {
     firstName: "Jayaprakash",
     lastName: "Lenin",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
+    initials: "jp", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer(AI/ML)",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
@@ -85,7 +85,7 @@ export const info = {
     bio: "Hello! I'm Jayaprakash aka jp. I'm a software developer with inclination towards AI. I'm pursuing CompSci(with AI) at Amrita University, I enjoy long rides on motorcycles, and I believe AI will automate the booring stuff and  us all one day. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript','react','git','github','html5','css3','python','tensorflow','express.js','node.js','mongoDB','SQL','flask','node.js'],
+            proficientWith: ['javascript','react','git','github','html5','css3','python','tensorflow','express.js','node.js','mongoDB','SQL','flask','node.js','Java','C++'],
             exposedTo: ['flutter', 'Django', 'firebase' , 'materialUI','fastApi','AWS']
         }
     ,
@@ -114,12 +114,12 @@ export const info = {
             title: "Tinder CLone",
              //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/Jpduker", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            image: tinder_clone
         },
         {
-            title: "Project 2",
+            title: "Dynamic Movie Site",
             live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            source: "https://github.com/Jpduker",
             image: mock2
         },
         {
