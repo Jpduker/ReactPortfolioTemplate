@@ -1,10 +1,11 @@
 import self from "../img/self.png"
-import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
+
 import tinder_clone from "../img/tinder_clone.png"
+import movie_site from "../img/movie_site.png"
+import senti from "../img/senti.png"
+import color_restore from "../img/color_restore.png"
+import text1 from "../img/text1.png"
+
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
 
@@ -110,35 +111,36 @@ export const info = {
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
+        
         {
-            title: "Tinder CLone",
+            title: "Dynamic Movie Site",
+            live: "https://jpduker.github.io/Movie-Site/",
+            source: "https://github.com/Jpduker/Movie-Site",
+            image: movie_site
+        },
+        {
+            title: "Toxicity Detection",
+            live: "https://jpduker-sentimental-analysis-using-svm-appapp-dy73fy.streamlit.app/",
+            source: "https://github.com/Jpduker/Sentimental-Analysis-Using-SVM",
+            image: senti
+        },
+        {
+            title: "Tinder Clone (MERN)",
              //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/Jpduker", // this should be a link to the **repository** of the project, where the code is hosted.
             image: tinder_clone
         },
         {
-            title: "Dynamic Movie Site",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/Jpduker",
-            image: mock2
+            title: "Color Restoration",
+            live: "https://github.com/Jpduker/DeOldify",
+            source: "https://github.com/Jpduker/DeOldify",
+            image: color_restore
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock3
-        },
-        {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock4
-        },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
+            title: "Text-Summary Generator",
+            live: "https://github.com/Jpduker/Q-A-Deeplearning-Web-APP",
+            source: "https://github.com/Jpduker/Q-A-Deeplearning-Web-APP",
+            image: text1
         }
     ]
 }
