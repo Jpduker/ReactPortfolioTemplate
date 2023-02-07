@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.db3d1917.css",
-    "main.js": "/static/js/main.7a435c92.js",
-    "static/media/color_restore.png": "/static/media/color_restore.a370828c6f9a2620df9e.png",
-    "static/media/self.png": "/static/media/self.9e363bce33318a036bcb.png",
-    "static/media/movie_site.png": "/static/media/movie_site.0fb55537c32936098ecf.png",
-    "static/media/tinder_clone.png": "/static/media/tinder_clone.ae02aba552a1872ffd49.png",
-    "static/media/text1.png": "/static/media/text1.7fd5ecb9bf638443e067.png",
-    "static/media/senti.png": "/static/media/senti.ce91d95ef8c3dd7d7186.png",
-    "index.html": "/index.html",
-    "main.db3d1917.css.map": "/static/css/main.db3d1917.css.map",
-    "main.7a435c92.js.map": "/static/js/main.7a435c92.js.map"
+    "main.css": "/ReactPortfolioTemplate/static/css/main.db3d1917.css",
+    "main.js": "/ReactPortfolioTemplate/static/js/main.85dee093.js",
+    "static/media/color_restore.png": "/ReactPortfolioTemplate/static/media/color_restore.a370828c6f9a2620df9e.png",
+    "static/media/self.png": "/ReactPortfolioTemplate/static/media/self.9e363bce33318a036bcb.png",
+    "static/media/movie_site.png": "/ReactPortfolioTemplate/static/media/movie_site.0fb55537c32936098ecf.png",
+    "static/media/tinder_clone.png": "/ReactPortfolioTemplate/static/media/tinder_clone.ae02aba552a1872ffd49.png",
+    "static/media/text1.png": "/ReactPortfolioTemplate/static/media/text1.7fd5ecb9bf638443e067.png",
+    "static/media/senti.png": "/ReactPortfolioTemplate/static/media/senti.ce91d95ef8c3dd7d7186.png",
+    "index.html": "/ReactPortfolioTemplate/index.html",
+    "main.db3d1917.css.map": "/ReactPortfolioTemplate/static/css/main.db3d1917.css.map",
+    "main.85dee093.js.map": "/ReactPortfolioTemplate/static/js/main.85dee093.js.map"
   },
   "entrypoints": [
     "static/css/main.db3d1917.css",
-    "static/js/main.7a435c92.js"
+    "static/js/main.85dee093.js"
   ]
 }
